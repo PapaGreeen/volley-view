@@ -1,3 +1,10 @@
+# Node dependencies
+node_modules/
+
+# Build output
+/build
+/dist
+
 # Logs
 logs
 *.log
@@ -128,3 +135,38 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Editor specific
+vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing and coverage
+/coverage
+/jest-test-results.json
+
+# Mac-specific files
+._*
+
+# Optional: Git merge conflict files
+*.orig
+
+# Optional: Lint and formatting
+.eslintcache
+.stylelintcache
+
+# Optional: Package manager files
+/pnpm-lock.yaml
+/yarn.lock
+/package-lock.json
+
+# React-specific files
+*.cache
+.next/       # For Next.js projects
+out/         # Next.js static exports
+
