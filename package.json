@@ -1,0 +1,20 @@
+{
+  "name": "volley-view",
+  "version": "1.0.0",
+  "description": "Volleyball Rotations &amp; Substitutions tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwilder/volley-view.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobwilder/volley-view/issues"
+  },
+  "homepage": "https://github.com/jacobwilder/volley-view#readme"
+}
